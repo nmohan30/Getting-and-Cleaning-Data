@@ -1,6 +1,8 @@
 #Code book for Coursera Getting and Cleaning Data course project
+
 ##Data
 The tidy_data.txt data file is a text file
+
 ##Activity
 Activities include:
 -Walking
@@ -9,6 +11,7 @@ Activities include:
 -Sitting
 -Standing
 -Laying
+
 ##Average of Measurements of Measurement Means
 -Time domain body acceleration mean along X, Y, and Z:
 -Mean-TimeBodyAcc-Mean-X
